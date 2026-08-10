@@ -11,8 +11,8 @@ skills*, *missing skills*, and a one-sentence, human-readable rationale.
   "fit": "Potential Fit"
 }
 ```
-**Built entirely on free infrastructure — $0 spent.** Google Colab's free T4 GPU for training,
-Groq's free API for data distillation, Hugging Face for the dataset and model hosting.
+**Built entirely on free infrastructure ** Google Colab's T4 GPU for training,
+Groq's API for data distillation, Hugging Face for the dataset and model hosting.
  
 ---
 
